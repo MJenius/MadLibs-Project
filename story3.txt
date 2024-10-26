@@ -1,0 +1,1 @@
+Professor {name}, a renowned {job}, accidentally invented a {adjective1} {noun1} that turned everything it touched into a(n) {colour} {noun2}. Chaos erupted as every {noun3} transformed into {adjective2} {noun2}, leaving the town in stitches and a peculiar shade of {colour}.
